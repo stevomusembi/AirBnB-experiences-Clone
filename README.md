@@ -4,4 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 #This was a Scrimba Challenge to build a clone of the AirBnB page using react.
+![](images/screenshot.png)
+![](images/screenshot2.png)
+
 
